@@ -16,7 +16,7 @@ function App() {
            
     
        <Routes>
-        <Route path="/demo-rect-app" exact element={<Home/>} />
+        <Route path="/finalcutproduction" exact element={<Home/>} />
         <Route path="/contact" element={<Contact/>} />
         <Route path="/cinmatic-video" element={<CinmaticVideo/>} />
       </Routes>

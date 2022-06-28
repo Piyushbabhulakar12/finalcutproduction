@@ -1,8 +1,8 @@
 {
-  "name": "finalcut",
+  "name": "finalcutproduction",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Piyushbabhulakar12.github.io/demo-rect-app",
+  "homepage": "https://Piyushbabhulakar12.github.io/finalcutproduction",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
