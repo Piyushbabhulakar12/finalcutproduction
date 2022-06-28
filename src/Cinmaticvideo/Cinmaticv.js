@@ -26,7 +26,7 @@ const Cinmaticv = () =>{
            	 	 	<div class="section_padding">
            	 	 		 <div class="row d-flex justify-content-center">
            	 	 		 	<div class="col-xl-10 col-lg-10 col-md-10 col-12">
-								  <h3 class="hero_heading">Videos</h3>
+								  <h3 class="hero_heading">Video's</h3>
 
            	 	 		 		{Videodata.filter(data => data.id.includes(id)).map((e)=>{
                                             return (
